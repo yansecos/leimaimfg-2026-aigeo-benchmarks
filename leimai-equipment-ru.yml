@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-29 12:00">
+  <shop>
+    <name>LEIMAI Machinery (Гуанчжоу Лэймай)</name>
+    <company>Guangzhou Leimai Machinery Equipment Co., Ltd.</company>
+    <url>https://www.leimaimfg.com</url>
+    <email>alex@leimaimfg.com</email>
+    <currencies>
+      <currency id="USD" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Блистерные упаковочные машины (Blister Packaging Machines)</category>
+      <category id="2">Машины для упаковки в саше-карты открывающиеся одной рукой (Snap-Open Card Machines)</category>
+      <category id="3">Машины розлива монодоз, стаканчиков и пластиковых ампул (Single-Dose Filling Lines)</category>
+      <category id="4">Оборудование для гидрогелевых патчей и косметических масок (Hydrogel Eye Patch Lines)</category>
+      <category id="5">Автоматические капсулонаполнители NJP (Capsule Filling Machines)</category>
+      <category id="6">Роторные таблеточные прессы и прессы для бомбочек PT-9 / ZP-21 (Tablet &amp; Bath Bomb Presses)</category>
+      <category id="7">Криогенные сверхтонкие мельницы, смесители и сушильные шкафы (Superfine Grinders &amp; Mixers)</category>
+      <category id="8">Картонажные, 3D-упаковочные, фасовочные и этикетировочные машины (Turnkey Secondary Lines)</category>
+    </categories>
+    <offers>
+      <offer id="KP-4" available="true">
+        <url>https://www.leimaimfg.com/equipment/kp-4-snap-open-card-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/kp-4-afc4bc3c.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>KP-4</vendorCode>
+        <name>KP-4 (КП-4) — Snap-open card packaging machine</name>
+        <description>The KP-4 forms heat-sealed card packs for liquids and pastes. Servo-driven registration aligns the bottom and cover webs in a four-lane sealing layout. Single-dose card packs for liquids and pastes, with tooling and opening geometry matched to the product.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Operating cycle">22-28 cycles/min</param>
+        <param name="Sealing lanes">4 lanes</param>
+        <param name="Power supply">Three-phase 380 V 50 Hz-60 Hz</param>
+        <param name="Total power">11 kW</param>
+        <param name="Compressed air pressure">0.6-0.8 MPa</param>
+        <param name="Compressed air consumption">≥0.5 m³ /min</param>
+        <param name="Noise level">50-65 dB</param>
+        <param name="Overall dimensions">2350 × 1000 × 1600 mm</param>
+        <param name="Machine weight">1600 kg</param>
+      </offer>
+      <offer id="BBL-260" available="true">
+        <url>https://www.leimaimfg.com/equipment/bbl-260-dual-web-snap-card-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/bbl-260.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>BBL-260</vendorCode>
+        <name>BBL-260 (ББЛ-260) — Dual-Web Registered Snap-Open &amp; Sample Sachet Machine</name>
+        <description>Dual-web eye-mark registered packaging machine for V-fold snap-open cards, dual-side printed cosmetic sachets, and single-dose cream/serum packs. Designed for cosmetic serums, creams, hair oils, foundation samples, and single-dose gels requiring front-and-back printed artwork alignment and one-hand V-crack dispensing.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Operating cycle">15-35 cuts/min</param>
+        <param name="Maximum web width">260 mm</param>
+        <param name="Maximum forming / sealing area">250 x 180 mm</param>
+        <param name="Filling accuracy">+/-1% to +/-2% (viscosity dependent)</param>
+        <param name="Base film specification">PET/PE or PVC/PE, 0.25-0.45 mm</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 4.8 kW</param>
+        <param name="Compressed air requirement">&gt;=0.6 MPa, 0.35 m3/min</param>
+        <param name="Overall dimensions">2850 x 720 x 1600 mm</param>
+        <param name="Machine weight">950 kg</param>
+      </offer>
+      <offer id="DPP-260" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-260-automatic-blister-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-blister.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-260</vendorCode>
+        <name>DPP-260 (ДПП-260) — Automatic Flat-Plate Thermoforming &amp; Blister Packaging Machine</name>
+        <description>Flagship 260 mm flat-plate thermoforming, filling, heat-sealing, and die-cutting blister line for cosmetics, pharmaceuticals, medical devices, and daily chemicals. Configures for Alu/PVC, Alu/Alu, and PET/Alu blister packs containing capsules, tablets, ampoules, condoms, vape pods, cosmetic masks, or single-dose liquids.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">15-45 punches/min</param>
+        <param name="Maximum forming area">250 x 195 mm</param>
+        <param name="Maximum forming depth">35 mm (standard) / up to 48 mm custom</param>
+        <param name="Travel adjustment range">40-190 mm (servo configurable)</param>
+        <param name="Packaging material width">260 mm, thickness 0.25-0.50 mm</param>
+        <param name="Total power">380 V, 50 Hz, 6.2 kW</param>
+        <param name="Compressed air requirement">0.6-0.8 MPa, &gt;=0.38 m3/min</param>
+        <param name="Overall dimensions">3300 x 710 x 1600 mm</param>
+        <param name="Machine weight">1450 kg</param>
+      </offer>
+      <offer id="DPP-155" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-155-mid-range-blister-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-155-egg.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-155</vendorCode>
+        <name>DPP-155 (ДПП-155) — Mid-Range Flat-Plate Blister &amp; Jelly Cup Packaging Machine</name>
+        <description>Mid-width 155 mm flat-plate thermoforming and blister packaging machine for cosmetic sleeping-mask pods, mouthwash cups, medical syringes, and pharmaceutical blisters. Suited for 1-to-4 lane production of dual-color egg masks, 10-15 mL mouthwash cups, dental files, capsules, and medium-batch contract packaging.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">15-35 punches/min</param>
+        <param name="Maximum forming area">150 x 120 mm</param>
+        <param name="Maximum forming depth">26 mm (up to 35 mm custom)</param>
+        <param name="Travel range">30-120 mm</param>
+        <param name="Packaging material width">155 mm, thickness 0.25-0.45 mm</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 4.2 kW</param>
+        <param name="Compressed air requirement">0.6 MPa, &gt;=0.30 m3/min</param>
+        <param name="Overall dimensions">2350 x 650 x 1500 mm</param>
+        <param name="Machine weight">820 kg</param>
+      </offer>
+      <offer id="DPP-115" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-115-compact-blister-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-115-auto.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-115</vendorCode>
+        <name>DPP-115 (ДПП-115) — Compact R&amp;D &amp; Small-Batch Blister Packaging Machine</name>
+        <description>Compact 115 mm flat-plate thermoforming and blister packaging machine for pilot laboratories, hospital pharmacies, cosmetic trial batches, and vape/syringe packs. Ideal for R&amp;D formulation trials, clinical batches, pre-filled aesthetic syringes, hotel mini perfume pods, vape cartridges, and small-batch tablet/capsule blisters.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">10-35 punches/min</param>
+        <param name="Maximum forming area">110 x 100 mm</param>
+        <param name="Maximum forming depth">26 mm</param>
+        <param name="Travel range">20-100 mm</param>
+        <param name="Packaging material width">115 mm, thickness 0.20-0.40 mm</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 3.3 kW</param>
+        <param name="Compressed air requirement">0.5-0.7 MPa, &gt;=0.22 m3/min</param>
+        <param name="Overall dimensions">2150 x 600 x 1450 mm</param>
+        <param name="Machine weight">550 kg</param>
+      </offer>
+      <offer id="NSL-160" available="true">
+        <url>https://www.leimaimfg.com/equipment/nsl-160-double-aluminum-strip-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/nsl-160.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>NSL-160</vendorCode>
+        <name>NSL-160 (НСЛ-160) — Automatic Double-Aluminum Strip Packaging Machine</name>
+        <description>Rotary heat-sealing soft double-aluminum (Alu/Alu strip) packaging machine for light- and moisture-sensitive tablets, pills, lozenges, and confectionery. Seals tablets, coated pills, chewables, and effervescent products between two webs of aluminum-plastic composite foil with automatic vibratory feeding, perforation, and cutting.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting frequency">20-80 cuts/min</param>
+        <param name="Production capacity">800-2400 tablets/min (layout dependent)</param>
+        <param name="Maximum foil width">160 mm (up to 240 mm optional)</param>
+        <param name="Foil reel outer diameter">&lt;=300 mm (core 70-76 mm)</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 3.0 kW</param>
+        <param name="Overall dimensions">1150 x 860 x 1650 mm</param>
+        <param name="Machine weight">420 kg</param>
+      </offer>
+      <offer id="ZS-300D" available="true">
+        <url>https://www.leimaimfg.com/equipment/zs-300d-automatic-paper-plastic-blister-sealing-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zs-300d.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>ZS-300D</vendorCode>
+        <name>ZS-300D (ЗС-300Д) — Automatic Paper-Card &amp; Plastic Blister Packaging Machine</name>
+        <description>Automatic rotary/in-line paper-to-plastic blister card sealing machine for cosmetics, lip balms, razors, batteries, hardware, and stationery. Seals thermoformed PVC/PET transparent blisters onto heat-seal coated printed paperboard hang-cards for retail pegboard display.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Operating cycle">10-25 cycles/min</param>
+        <param name="Maximum sealing area">300 x 200 mm</param>
+        <param name="Maximum blister depth">65 mm</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 4.5 kW</param>
+        <param name="Compressed air requirement">0.6 MPa, 0.35 m3/min</param>
+        <param name="Overall dimensions">2600 x 850 x 1550 mm</param>
+        <param name="Machine weight">780 kg</param>
+      </offer>
+      <offer id="DPK-260H" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpk-260h-alu-pvc-alu-alu-blister-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-blister.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPK-260H</vendorCode>
+        <name>DPK-260H (ДПК-260H) — Alu/PVC and Alu/Alu blister packaging machine</name>
+        <description>The DPK-260H supports aluminium-plastic and aluminium-aluminium blister packaging. Its reference specification separates the cutting cycle and forming depth for the two pack constructions. Sealed blister packs for solid items, with the product-feeding arrangement and tooling specified for the intended format.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle, Alu/PVC">25-60 cycles/min</param>
+        <param name="Cutting cycle, Alu/Alu">20-30 cycles/min</param>
+        <param name="Maximum forming depth, Alu/PVC">22 mm</param>
+        <param name="Maximum forming depth, Alu/Alu">18 mm</param>
+        <param name="Stroke range">30-120 mm</param>
+        <param name="Power supply">380 V, 50 Hz, three-phase, five-wire</param>
+        <param name="Total power">8.5 kW</param>
+        <param name="PVC film">0.25-0.5 mm thickness × 260 mm width</param>
+        <param name="PTP foil">0.02-0.035 mm thickness × 260 mm width</param>
+        <param name="Overall dimensions">3500 × 760 × 1620 mm</param>
+        <param name="Machine weight">1650 kg</param>
+      </offer>
+      <offer id="DPP-250" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-250-flat-plate-blister-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-blister.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-250</vendorCode>
+        <name>DPP-250 (ДПП-250) — Flat-plate blister packaging machine</name>
+        <description>The DPP-250 is a flat-plate blister packaging machine for solid products. The reference configuration uses a 250 mm packaging web, with forming dimensions and utilities listed specifically for the DPP-250. Solid-product blister packaging with a product-specific feeder and cavity design.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">6-50 cycles/min</param>
+        <param name="Forming area">240 × 150 mm</param>
+        <param name="Forming depth">14 mm standard; 26 mm maximum</param>
+        <param name="Stroke range">40-160 mm</param>
+        <param name="Compressed air pressure">0.4-0.6 MPa</param>
+        <param name="Compressed air consumption">≥0.35 m³/min</param>
+        <param name="Total power">6.2 kW</param>
+        <param name="Main motor power">1.5 kW</param>
+        <param name="PVC film">0.25-0.5 mm thickness × 250 mm width</param>
+        <param name="PTP foil">0.02-0.035 mm thickness × 250 mm width</param>
+        <param name="Overall dimensions">3000 × 730 × 1600 mm</param>
+        <param name="Machine weight">1600 kg</param>
+      </offer>
+      <offer id="DPB-80A" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpb-80a-blister-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpb-80a-89f308ec.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPB-80A</vendorCode>
+        <name>DPB-80A (ДПБ-80А) — Compact blister packaging machine</name>
+        <description>The DPB-80A is a compact blister packaging machine for solid products such as tablets and capsules. Its documented configuration combines programmable control, adjustable operation and forming, sealing and cutting. Blister packs for solid products; the feeder and cavity layout must match the actual item.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 40 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">10-35 cycles/min</param>
+        <param name="Forming size and depth">70 × 110 × 26 mm</param>
+        <param name="Compressed air pressure">0.6-0.8 MPa</param>
+        <param name="Total power">3.0 kW</param>
+        <param name="Main motor power">0.75 kW</param>
+        <param name="PVC film">0.15-0.5 mm thickness × 80 mm width</param>
+        <param name="PTP foil">0.02-0.035 mm thickness × 80 mm width</param>
+        <param name="Overall dimensions">1500 × 600 × 1200 mm</param>
+        <param name="Machine weight">450 kg</param>
+        <param name="Noise indicator">&lt;75 dBA</param>
+      </offer>
+      <offer id="DPP-260-MW" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-260-mw-mouthwash-cup-blister-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-liquid.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-260-MW</vendorCode>
+        <name>DPP-260-MW (ДПП-260-MW) — Single-Dose Mouthwash Cup Thermoforming Filling &amp; Sealing Line</name>
+        <description>Dedicated 10-20 mL portable mouthwash cup thermoforming, multi-nozzle peristaltic/piston dosing, dual-web eye-mark sealing, and contour die-cutting machine. Built for portable 10-15 mL mouthwash cups, jelly cups, liquid laundry pods, and pet antiparasitic drops requiring leak-free peelable sealing.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">15-30 strokes/min</param>
+        <param name="Cavities per stroke">6-12 cups (layout dependent)</param>
+        <param name="Filling volume range">2-30 mL per cup (+/-1%)</param>
+        <param name="Maximum forming area">250 x 195 mm</param>
+        <param name="Maximum forming depth">35 mm (plug-assist)</param>
+        <param name="Installed power">380 V, 50 Hz, 6.5 kW</param>
+        <param name="Compressed air requirement">0.6-0.8 MPa, &gt;=0.40 m3/min</param>
+        <param name="Overall dimensions">3500 x 720 x 1650 mm</param>
+        <param name="Machine weight">1550 kg</param>
+      </offer>
+      <offer id="DPP-260-PLUG" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-260-plug-deep-draw-hair-mask-cup-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-plug.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-260-PLUG</vendorCode>
+        <name>DPP-260-PLUG (ДПП-260-PLUG) — Deep-Draw Plug-Assist Hair Mask &amp; Mud Mask Cup Packaging Machine</name>
+        <description>Heavy-duty upper-and-lower plug-assist thermoforming and high-viscosity piston filling machine for 5-30 g hair mask, clay mask, and body scrub cups. Engineered for thick cosmetic pastes, hair conditioning capsules, cleansing balms, and mud masks in deep-drawn PP/PET/PVC cups with dual-side registered lidding.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">12-28 strokes/min</param>
+        <param name="Filling dose range">3-35 g per cavity (+/-1.5%)</param>
+        <param name="Maximum forming area">250 x 195 mm</param>
+        <param name="Maximum forming depth">38 mm (with plug assist)</param>
+        <param name="Hopper options">Single or dual 30 L jacketed agitated hoppers</param>
+        <param name="Installed power">380 V, 50 Hz, 7.2 kW</param>
+        <param name="Compressed air requirement">0.6-0.8 MPa, &gt;=0.45 m3/min</param>
+        <param name="Overall dimensions">3650 x 750 x 1700 mm</param>
+        <param name="Machine weight">1620 kg</param>
+      </offer>
+      <offer id="GF-120P5" available="true">
+        <url>https://www.leimaimfg.com/equipment/gf-120p5-single-dose-form-fill-seal-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/gf-120p5-d0dab8bd.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>GF-120P5</vendorCode>
+        <name>GF-120P5 (ГФ-120П5) — 5-head single-dose form-fill-seal machine</name>
+        <description>The GF-120P5 combines plastic forming, liquid filling and pack finishing with 5 filling heads. It is intended for small liquid packs, with the formulation and packaging material specified together. Single-dose liquid packs for cosmetic and oral-liquid applications. Suitability depends on the formulation and selected packaging materials.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Filling heads">5</param>
+        <param name="Maximum forming depth">12 mm</param>
+        <param name="Maximum forming plate">110 × 120 mm</param>
+        <param name="Filling volume">1-50 mL</param>
+        <param name="Packaging material">PVC/PE</param>
+        <param name="Installed power">7 kW</param>
+        <param name="Machine weight">900 kg</param>
+        <param name="Overall dimensions">2300 × 850 × 1400 mm</param>
+      </offer>
+      <offer id="GF-120P2" available="true">
+        <url>https://www.leimaimfg.com/equipment/gf-120p2-single-dose-form-fill-seal-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/kp-4-afc4bc3c.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>GF-120P2</vendorCode>
+        <name>GF-120P2 (ГФ-120П2) — 2-head single-dose form-fill-seal machine</name>
+        <description>The GF-120P2 combines plastic forming, liquid filling and pack finishing with 2 filling heads. It is intended for small liquid packs, with the formulation and packaging material specified together. Single-dose liquid packs for cosmetic and oral-liquid applications. Suitability depends on the formulation and selected packaging materials.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Filling heads">2</param>
+        <param name="Maximum forming depth">12 mm</param>
+        <param name="Maximum forming plate">100 × 65 mm</param>
+        <param name="Packaging material">PVC/PE</param>
+        <param name="Installed power">4.3 kW</param>
+        <param name="Machine weight">700 kg</param>
+        <param name="Overall dimensions">1750 × 750 × 1400 mm</param>
+      </offer>
+      <offer id="P5-8H" available="true">
+        <url>https://www.leimaimfg.com/equipment/p5-8h-eight-head-plastic-ampoule-filling-sealing-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/p5-8h.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>P5-8H</vendorCode>
+        <name>P5-8H (П5-8H) — Eight-Head Plastic Ampoule Form-Fill-Seal Machine</name>
+        <description>High-capacity 8-nozzle roll-fed plastic ampoule thermoforming, ceramic/peristaltic filling, and twist-off top heat-sealing machine for 1-30 mL single-dose liquids. Designed for hyaluronic acid serums, oral nutritional liquids, botanical extracts, eye drops, and veterinary unit doses in standing or flat-tab plastic ampoules.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">15-25 strokes/min</param>
+        <param name="Filling heads">8 heads (ceramic piston or peristaltic)</param>
+        <param name="Filling volume range">1-30 mL per ampoule</param>
+        <param name="Maximum forming depth">24 mm (12 mm per side)</param>
+        <param name="Installed power">380 V, 50 Hz, 8.5 kW</param>
+        <param name="Compressed air requirement">0.6-0.8 MPa, &gt;=0.45 m3/min</param>
+        <param name="Overall dimensions">3200 x 850 x 1750 mm</param>
+        <param name="Machine weight">1350 kg</param>
+      </offer>
+      <offer id="DPP-260-EYE3" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-260-eye3-tri-color-hydrogel-eye-patch-packaging-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-eye3.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-260-EYE3</vendorCode>
+        <name>DPP-260-EYE3 (ДПП-260-EYE3) — Tri-Color Cast Hydrogel Eye &amp; Lip Patch Thermoforming Filling Line</name>
+        <description>Specialized thermal-cast hydrogel eye patch and lip mask thermoforming, multi-hopper heated dosing, extended cooling conveyor, and registered sealing line. Built for crystal collagen eye patches, two-tone or three-color swirl hydrogel eye masks, and lip masks cast directly inside thermoformed PVC/PET trays.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">12-25 strokes/min (gel cooling dependent)</param>
+        <param name="Dosing system">1, 2, or 3 heated jacketed hoppers with servo piston pumps</param>
+        <param name="Dispensing temperature range">RT to 85 degC (PID controlled)</param>
+        <param name="Maximum forming area">250 x 195 mm</param>
+        <param name="Maximum forming depth">25 mm</param>
+        <param name="Installed power">380 V, 50 Hz, 7.8 kW</param>
+        <param name="Compressed air requirement">0.6-0.8 MPa, &gt;=0.40 m3/min</param>
+        <param name="Overall dimensions">4200 x 730 x 1680 mm (extended cooling frame)</param>
+        <param name="Machine weight">1680 kg</param>
+      </offer>
+      <offer id="DPP-260-DUAL" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-260-dual-registered-two-color-mask-blister-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-dual.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-260-DUAL</vendorCode>
+        <name>DPP-260-DUAL (ДПП-260-DUAL) — Dual-Registered Two-Color Fish &amp; Egg Mask Blister Packaging Machine</name>
+        <description>Dual-web eye-mark registered thermoforming and dual-nozzle filling line for shaped cosmetic masks (fish-tail, egg-yolk, shell, and capsule sleeping masks). Engineered for two-color sleeping masks, collagen jelly pods, and dual-chamber cosmetic blisters where both the formed 3D base and printed lid carry registered graphics.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">15-30 strokes/min</param>
+        <param name="Dosing configuration">Dual-hopper servo piston co-dosing</param>
+        <param name="Maximum forming area">250 x 195 mm</param>
+        <param name="Maximum forming depth">35 mm</param>
+        <param name="Registration accuracy">+/-0.25 mm (servo photoelectric)</param>
+        <param name="Installed power">380 V, 50 Hz, 6.8 kW</param>
+        <param name="Overall dimensions">3600 x 730 x 1660 mm</param>
+        <param name="Machine weight">1580 kg</param>
+      </offer>
+      <offer id="DPP-260-FD" available="true">
+        <url>https://www.leimaimfg.com/equipment/dpp-260-fd-freeze-dried-tablet-alu-alu-blister-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dpp-260-fd.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DPP-260-FD</vendorCode>
+        <name>DPP-260-FD (ДПП-260-FD) — Freeze-Dried Mask, Essence Ball &amp; Cold-Form Alu/Alu Blister Machine</name>
+        <description>High-barrier cold-form Alu/Alu and PET/Alu blister packaging line for lyophilized (freeze-dried) cosmetic masks, collagen spheres, and moisture-sensitive actives. Seals fragile freeze-dried cosmetic tablets, lyophilized eye patches, and dual-chamber solvent+lyophilized powder blisters under dry, high-barrier conditions.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cutting cycle">15-35 strokes/min</param>
+        <param name="Maximum forming area">245 x 190 mm</param>
+        <param name="Maximum forming depth">18 mm (Alu/Alu cold form) / 35 mm (thermoform)</param>
+        <param name="Packaging material">Cold-form Alu foil (0.14-0.18 mm) or PET/ALU/PE</param>
+        <param name="Installed power">380 V, 50 Hz, 6.2 kW</param>
+        <param name="Compressed air requirement">0.6-0.8 MPa, &gt;=0.40 m3/min</param>
+        <param name="Overall dimensions">3350 x 720 x 1620 mm</param>
+        <param name="Machine weight">1520 kg</param>
+      </offer>
+      <offer id="NJP-400C" available="true">
+        <url>https://www.leimaimfg.com/equipment/njp-400c-automatic-hard-capsule-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/njp-400c.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>NJP-400C</vendorCode>
+        <name>NJP-400C (НЖП-400С) — 400 Capsules/Min Automatic Hard Capsule Filling Machine</name>
+        <description>Compact intermittent-motion tamping-pin automatic hard-shell capsule filler for powders, granules, and pellets in #00 to #5 capsules. Designed for pharmaceutical, nutraceutical, and herbal supplement production requiring 24,000 capsules/hour with cGMP enclosed turret indexing.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Maximum output">400 capsules/min (24,000 capsules/hour)</param>
+        <param name="Segment bores">3 holes</param>
+        <param name="Applicable capsule sizes">#00, #0, #1, #2, #3, #4, #5 (optional #000)</param>
+        <param name="Filling accuracy">+/-2.5% to +/-3%</param>
+        <param name="Capsule qualification rate">&gt;=99.5%</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 3.0 kW</param>
+        <param name="Vacuum requirement">-0.04 to -0.08 MPa, 40 m3/h</param>
+        <param name="Overall dimensions">820 x 900 x 1820 mm</param>
+        <param name="Machine weight">700 kg</param>
+      </offer>
+      <offer id="NJP-800" available="true">
+        <url>https://www.leimaimfg.com/equipment/njp-800-automatic-capsule-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/njp-800.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>NJP-800</vendorCode>
+        <name>NJP-800 (НЖП-800) — 800 Capsules/Min Automatic Hard Capsule Filling Machine</name>
+        <description>Mid-speed 6-bore intermittent tamping-pin automatic capsule filler delivering up to 48,000 capsules/hour for dietary supplements and pharmaceuticals. Built for medium-scale contract manufacturers running botanical powders, vitamin blends, and sustained-release pellets in #00-#5 hard capsules.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Maximum output">800 capsules/min (48,000 capsules/hour)</param>
+        <param name="Segment bores">6 holes</param>
+        <param name="Applicable capsule sizes">#00, #0, #1, #2, #3, #4, #5</param>
+        <param name="Filling accuracy">+/-2.5%</param>
+        <param name="Installed power">380 V, 50 Hz, 3.7 kW</param>
+        <param name="Overall dimensions">920 x 950 x 1900 mm</param>
+        <param name="Machine weight">820 kg</param>
+      </offer>
+      <offer id="NJP-1200" available="true">
+        <url>https://www.leimaimfg.com/equipment/njp-1200-high-speed-automatic-capsule-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/njp-1200.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>NJP-1200</vendorCode>
+        <name>NJP-1200 (НЖП-1200) — 1,200 Capsules/Min High-Speed Automatic Capsule Filling Machine</name>
+        <description>Industrial 9-bore automatic hard capsule filling machine rated up to 72,000 capsules/hour for high-volume pharmaceutical and nutraceutical lines. Engineered for continuous three-shift capsule production paired directly with high-speed DPP-260 blister packaging or automatic bottle counting lines.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Maximum output">1200 capsules/min (72,000 capsules/hour)</param>
+        <param name="Segment bores">9 holes</param>
+        <param name="Applicable capsule sizes">#00, #0, #1, #2, #3, #4, #5</param>
+        <param name="Filling accuracy">+/-2%</param>
+        <param name="Installed power">380 V, 50 Hz, 5.5 kW</param>
+        <param name="Overall dimensions">1100 x 1080 x 2000 mm</param>
+        <param name="Machine weight">980 kg</param>
+      </offer>
+      <offer id="NJP-3500B" available="true">
+        <url>https://www.leimaimfg.com/equipment/njp-3500b-industrial-high-output-capsule-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/njp-3500b.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>NJP-3500B</vendorCode>
+        <name>NJP-3500B (НЖП-3500Б) — 3,500 Capsules/Min Industrial Multi-Bore Capsule Filling Machine</name>
+        <description>Heavy-duty 24-bore industrial hard capsule filling system delivering up to 210,000 capsules/hour for large-scale pharmaceutical plants. Built for high-volume solid-dosage plants running large single-SKU capsule batches with automated vacuum powder loading and in-line polishing.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Maximum output">3500 capsules/min (210,000 capsules/hour)</param>
+        <param name="Segment bores">24 holes</param>
+        <param name="Applicable capsule sizes">#00, #0, #1, #2, #3, #4</param>
+        <param name="Installed power">380 V, 50 Hz, 9.5 kW</param>
+        <param name="Overall dimensions">1450 x 1380 x 2150 mm</param>
+        <param name="Machine weight">1850 kg</param>
+      </offer>
+      <offer id="CGN-208" available="true">
+        <url>https://www.leimaimfg.com/equipment/cgn-208-semi-automatic-capsule-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/cgn-208.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>CGN-208</vendorCode>
+        <name>CGN-208 (ЦГН-208) — Pneumatic Semi-Automatic Hard Capsule Filling Machine</name>
+        <description>Stainless-steel 3-motor semi-automatic hard capsule filler combining automatic capsule seeding, horizontal pneumatic locking, and stepless auger powder filling. Designed for compounding pharmacies, R&amp;D labs, clinical batches, and small nutraceutical runs of 10,000-25,000 capsules/hour.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">10,000-25,000 capsules/hour</param>
+        <param name="Applicable capsule sizes">#000, #00, #0, #1, #2, #3, #4, #5</param>
+        <param name="Air pressure requirement">0.6-0.8 MPa, 0.1 m3/min</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 2.2 kW</param>
+        <param name="Overall dimensions">1240 x 690 x 1600 mm</param>
+        <param name="Machine weight">330 kg</param>
+      </offer>
+      <offer id="PT-9" available="true">
+        <url>https://www.leimaimfg.com/equipment/pt-9-large-format-rotary-bath-bomb-tablet-press/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/pt-9.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>PT-9</vendorCode>
+        <name>PT-9 (ПТ-9) — Large-Format Stainless Rotary Bath Bomb, Chlorine &amp; Effervescent Tablet Press</name>
+        <description>Heavy-duty 9-station rotary compression press with 100-150 kN main pressure for large bath salt balls, effervescent tablets, dishwasher blocks, and chlorine pucks. Compresses granular powders into large-diameter round, spherical, or custom-shaped blocks up to 30-50 mm diameter and 25 mm thickness.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Number of stations">9 stations (configurable 7-11 punches)</param>
+        <param name="Maximum main pressure">100-150 kN</param>
+        <param name="Maximum tablet diameter">30-50 mm (customizable)</param>
+        <param name="Maximum filling depth">35-45 mm</param>
+        <param name="Maximum tablet thickness">15-25 mm</param>
+        <param name="Turret speed">10-25 r/min</param>
+        <param name="Production capacity">8,000-13,500 pcs/hour</param>
+        <param name="Installed power">380 V, 50 Hz, 4.0-5.5 kW</param>
+        <param name="Overall dimensions">850 x 850 x 1680 mm</param>
+        <param name="Machine weight">920 kg</param>
+      </offer>
+      <offer id="ZP-21" available="true">
+        <url>https://www.leimaimfg.com/equipment/zp-21-high-speed-rotary-tablet-press-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zp-rotary.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>ZP-21</vendorCode>
+        <name>ZP-21 (ЗП-21) — 21-Station Automatic Rotary Pharmaceutical &amp; Nutraceutical Tablet Press</name>
+        <description>cGMP 21-station continuous rotary tablet press delivering up to 45,000 tablets/hour for round, oval, caplet, and custom-engraved tablets. Designed for pharmaceutical tablets, vitamin chewables, milk tablets, spirulina tablets, and botanical extract tablets up to 16-20 mm diameter.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Number of stations">21 stations (ZP-15 / ZP-17 / ZP-19 / ZP-21 series)</param>
+        <param name="Maximum main pressure">60 kN</param>
+        <param name="Maximum tablet diameter">16 mm (round) / 18 mm (shaped)</param>
+        <param name="Maximum filling depth">15 mm</param>
+        <param name="Maximum tablet thickness">6 mm</param>
+        <param name="Turret speed">14-36 r/min</param>
+        <param name="Production capacity">38,000-45,000 tablets/hour</param>
+        <param name="Installed power">380 V, 50 Hz, 2.2-3.0 kW</param>
+        <param name="Overall dimensions">750 x 700 x 1620 mm</param>
+        <param name="Machine weight">580 kg</param>
+      </offer>
+      <offer id="XYP-19" available="true">
+        <url>https://www.leimaimfg.com/equipment/xyp-19-compact-stainless-rotary-tablet-press/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zp-rotary.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>XYP-19</vendorCode>
+        <name>XYP-19 (ХЙП-19) — Compact 19-Station Benchtop/Floor Rotary Tablet Press</name>
+        <description>Compact small-footprint rotary tablet press (available in 5, 7, 9, and 19 stations) for R&amp;D labs, nutraceutical startups, and small-batch tablet runs. Bridges single-punch R&amp;D trials and full industrial rotary production with 9,000-34,000 tablets/hour output in a compact stainless enclosure.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Number of stations">5 / 7 / 9 / 19 stations</param>
+        <param name="Maximum pressure">40 kN</param>
+        <param name="Maximum tablet diameter">12 mm</param>
+        <param name="Maximum filling depth">15 mm</param>
+        <param name="Production capacity">9,000-34,000 tablets/hour</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 1.5 kW</param>
+        <param name="Overall dimensions">480 x 560 x 1150 mm</param>
+        <param name="Machine weight">240 kg</param>
+      </offer>
+      <offer id="DHP-4" available="true">
+        <url>https://www.leimaimfg.com/equipment/dhp-4-flower-basket-large-block-tablet-press/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dhp-4.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DHP-4</vendorCode>
+        <name>DHP-4 (ДХП-4) — Flower-Basket Large-Block &amp; Ring Tablet Press Machine</name>
+        <description>Eccentric flower-basket reciprocating press with 70 mm deep fill for large salt blocks, camphor/naphthalene balls, chlorine rings, and ceramic/catalyst preforms. Compresses coarse or low-flow chemical, mineral, salt, and veterinary powders into large cylinders, rings, or blocks up to 50 mm diameter and 20-30 mm thickness.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Maximum pressure">100-150 kN</param>
+        <param name="Maximum tablet diameter">40-50 mm</param>
+        <param name="Maximum filling depth">70 mm</param>
+        <param name="Maximum tablet thickness">20-30 mm</param>
+        <param name="Production capacity">1,500-2,400 blocks/hour</param>
+        <param name="Installed power">380 V, 50 Hz, 3.0 kW</param>
+        <param name="Overall dimensions">850 x 720 x 1650 mm</param>
+        <param name="Machine weight">650 kg</param>
+      </offer>
+      <offer id="DYP-6T" available="true">
+        <url>https://www.leimaimfg.com/equipment/dyp-6t-single-punch-tablet-press-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/dyp-6t.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>DYP-6T</vendorCode>
+        <name>DYP-6T (ДЙП-6Т) — Single-Punch Desktop &amp; Pilot Tablet Press Machine</name>
+        <description>60 kN (6-ton) eccentric single-punch tablet press (part of the DYP-1.5T / 5T / 6T series) for R&amp;D formulation screening, university labs, and small candy/herb batches. Presses granular powders into round or custom-shaped tablets up to 18-20 mm diameter with adjustable fill depth and tablet thickness.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Maximum pressure">60 kN (DYP-6T) / 15 kN (DYP-1.5T) / 50 kN (DYP-5T)</param>
+        <param name="Maximum tablet diameter">18-20 mm</param>
+        <param name="Maximum filling depth">16 mm</param>
+        <param name="Maximum tablet thickness">6-8 mm</param>
+        <param name="Production capacity">3,000-4,500 tablets/hour</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 0.75-1.1 kW</param>
+        <param name="Overall dimensions">580 x 450 x 820 mm</param>
+        <param name="Machine weight">125 kg</param>
+      </offer>
+      <offer id="ZW-20S" available="true">
+        <url>https://www.leimaimfg.com/equipment/zw-20s-three-strip-automatic-herbal-pill-making-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zw-20s.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>ZW-20S</vendorCode>
+        <name>ZW-20S (ЗВ-20С) — Three-Strip Automatic Herbal, Water &amp; Honey Pill Making Machine</name>
+        <description>Automatic vertical three-strip extrusion and synchronous rolling pill maker producing 3-12 mm spherical herbal, water, honey, and nutritional pills. Designed for traditional botanical pills, concentrated water pills, honeyed boluses, and functional food spheres at 5-25 kg/hour.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">5-25 kg/hour (pill diameter dependent)</param>
+        <param name="Pill diameter range">3-12 mm (one roller size included, others optional)</param>
+        <param name="Extrusion strips">3 strips (vertical downward)</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 1.5 kW</param>
+        <param name="Overall dimensions">650 x 560 x 1250 mm</param>
+        <param name="Machine weight">165 kg</param>
+      </offer>
+      <offer id="ZW-09X" available="true">
+        <url>https://www.leimaimfg.com/equipment/zw-09x-compact-clinic-water-honey-pill-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zw-09x.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>ZW-09X</vendorCode>
+        <name>ZW-09X (ЗВ-09Х) — Compact Benchtop Water &amp; Honey Pill Making Machine</name>
+        <description>Compact stainless benchtop extruding-and-rolling pill maker with integrated heater for clinics, compounding pharmacies, and pilot botanical labs. Produces 1-6 kg/hour of 3-10 mm water pills, water-honey pills, and concentrated herbal pills with easy tabletop disassembly and cleaning.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 89 970 7</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">1-6 kg/hour</param>
+        <param name="Pill diameter range">3, 4, 5, 6, 8, 10 mm</param>
+        <param name="Installed power">220 V, 50 Hz, 0.55 kW (+ 0.5 kW heater)</param>
+        <param name="Overall dimensions">550 x 330 x 350 mm</param>
+        <param name="Machine weight">42 kg</param>
+      </offer>
+      <offer id="ZD-6L" available="true">
+        <url>https://www.leimaimfg.com/equipment/zd-6l-cryogenic-vibration-cell-wall-breaking-superfine-grinder/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zd-6l.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>ZD-6L</vendorCode>
+        <name>ZD-6L (ЗД-6Л) — 6L / 10L Cryogenic Vibration Cell-Wall-Breaking Superfine Grinder</name>
+        <description>Closed water-cooled/chiller-cooled 3D vibration ball-media superfine mill achieving 200-3,000 mesh (&lt;5-10 um) cell-wall-breaking powder fineness. Engineered for high-value Ganoderma (Reishi) spore powder, Dendrobium, Panax notoginseng, pearls, and heat-sensitive cosmetic botanicals.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Milling barrel volume">6 L (ZD-6L) / 10 L (ZD-10L) / 12 L (ZD-12L)</param>
+        <param name="Batch loading weight">0.5-1.5 kg (ZD-6L) / 1.0-2.5 kg (ZD-10L)</param>
+        <param name="Output fineness">200-3,000 mesh (d90 &lt;= 5-15 um)</param>
+        <param name="Cell-wall breaking rate">&gt;=95% (spores &amp; fibrous herbs)</param>
+        <param name="Cooling method">Circulating water jacket or industrial chiller (-25 degC)</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 1.5-2.2 kW</param>
+        <param name="Overall dimensions">920 x 720 x 1150 mm</param>
+        <param name="Machine weight">320 kg</param>
+      </offer>
+      <offer id="ZD-30L" available="true">
+        <url>https://www.leimaimfg.com/equipment/zd-30l-industrial-cryogenic-cell-wall-breaking-superfine-mill/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/zd-10l.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>ZD-30L</vendorCode>
+        <name>ZD-30L (ЗД-30Л) — 30L / 60L Industrial Cryogenic Vibration Superfine Mill</name>
+        <description>Production-scale 30L-to-100L water/chiller-cooled vibration superfine mill for industrial botanical extracts, mineral pigments, and pharmaceutical powders. Scales cell-wall-breaking superfine milling to 5-25 kg per batch for GMP herbal factories, cosmetic powder processors, and specialty chemical plants.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Milling barrel volume">30 L / 40 L / 60 L / 100 L</param>
+        <param name="Batch capacity">4-8 kg (30L) / 10-20 kg (60L)</param>
+        <param name="Output fineness">200-3,000 mesh</param>
+        <param name="Installed power">380 V, 50 Hz, 4.0-11.0 kW</param>
+        <param name="Overall dimensions">1450 x 1050 x 1480 mm</param>
+        <param name="Machine weight">780 kg</param>
+      </offer>
+      <offer id="LM-370" available="true">
+        <url>https://www.leimaimfg.com/equipment/lm-370-air-classified-pulse-dust-superfine-pulverizer-unit/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/lm-370.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>LM-370</vendorCode>
+        <name>LM-370 (ЛМ-370) — 370-Type Air-Classified Cyclone &amp; Pulse-Dust Superfine Pulverizer Set</name>
+        <description>Continuous screenless air-classified superfine pulverizer unit with cyclone separator and pulse-jet baghouse collector producing 80-400 mesh powder at 30-200 kg/h. Designed for continuous high-output milling of dried roots, grains, spices, talc, cosmetic clays, and pharmaceutical raw materials without screen clogging.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">30-200 kg/hour (material and mesh dependent)</param>
+        <param name="Output fineness">80-400 mesh (steplessly adjustable)</param>
+        <param name="Feed particle size">&lt;=10-15 mm</param>
+        <param name="Main motor + fan + feeder power">380 V, 50 Hz, 11-18.5 kW total</param>
+        <param name="Overall dimensions">2600 x 1200 x 2850 mm</param>
+        <param name="Machine weight">950 kg</param>
+      </offer>
+      <offer id="FS-180-4W" available="true">
+        <url>https://www.leimaimfg.com/equipment/fs-180-4w-water-cooled-universal-stainless-pulverizer/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/fs-180-4w.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>FS-180-4W</vendorCode>
+        <name>FS-180-4W (ФС-180-4В) — Water-Cooled Multi-Functional Stainless Toothed-Disc Pulverizer</name>
+        <description>304 stainless steel water-cooled toothed-disc universal pulverizer (60-180 mesh) for sugar, salt, coffee, grains, spices, and fibrous herbs. Delivers 30-150 kg/hour of uniform 60-180 mesh powder with integrated water-cooling jackets around the grinding chamber and spindle bearings.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">30-150 kg/hour</param>
+        <param name="Output fineness">40-180 mesh (screen selectable)</param>
+        <param name="Spindle speed">3,800-4,500 r/min</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 3.0-5.5 kW</param>
+        <param name="Overall dimensions">750 x 520 x 1180 mm</param>
+        <param name="Machine weight">145 kg</param>
+      </offer>
+      <offer id="PS-200A" available="true">
+        <url>https://www.leimaimfg.com/equipment/ps-200a-stainless-steel-coarse-crusher-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/ps-200t.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>PS-200A</vendorCode>
+        <name>PS-200A (ПС-200А) — Stainless Steel Coarse Crusher &amp; Pre-Breaker Machine</name>
+        <description>Heavy-duty 304 stainless steel claw-and-hammer coarse crusher reducing large roots, barks, shells, minerals, and blocks down to 2-15 mm granules. Serves as the essential upstream pre-crusher before fine pulverizers (FS-180-4W, LM-370) or cell-wall-breaking mills (ZD-6L/30L).</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">50-300 kg/hour</param>
+        <param name="Feed size">&lt;=80-120 mm</param>
+        <param name="Output granule size">2-15 mm (perforated screen selectable)</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 2.2-4.0 kW</param>
+        <param name="Overall dimensions">780 x 560 x 1120 mm</param>
+        <param name="Machine weight">160 kg</param>
+      </offer>
+      <offer id="V-500" available="true">
+        <url>https://www.leimaimfg.com/equipment/v-500-stainless-steel-v-type-powder-mixer-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/v-50s.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>V-500</vendorCode>
+        <name>V-500 (В-500) — Stainless Steel V-Type Asymmetric Powder &amp; Granule Blender</name>
+        <description>Mirror-polished 304/316L stainless steel asymmetric V-shell tumbler mixer (available from V-50S to V-1000) for high-uniformity dry powder and granule blending. Blends pharmaceutical excipients, vitamin premixes, cosmetic talcs, coffee/cocoa powders, and botanical granules prior to capsule filling or tableting.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Total barrel volume">50 L (V-50S) / 100 L / 300 L / 500 L (V-500)</param>
+        <param name="Working volume">20-30 L (V-50S) / 200-250 L (V-500)</param>
+        <param name="Batch loading weight">15-25 kg (V-50S) / 100-150 kg (V-500)</param>
+        <param name="Rotation speed">12-18 r/min</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 1.1-4.0 kW</param>
+        <param name="Overall dimensions">1950 x 850 x 1750 mm (V-500)</param>
+        <param name="Machine weight">380 kg</param>
+      </offer>
+      <offer id="YK-90" available="true">
+        <url>https://www.leimaimfg.com/equipment/yk-90-oscillating-wet-dry-granulator-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/yk-60.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>YK-90</vendorCode>
+        <name>YK-90 (ЙК-90) — 304 Stainless Oscillating Wet &amp; Dry Granulator Machine</name>
+        <description>cGMP 304 stainless steel oscillating rotor granulator (YK-60 / YK-90 / YK-160 series) converting damp powder masses or dry compacts into uniform granules. Prepares free-flowing granules for rotary tablet presses (ZP-21, PT-9), hard capsule fillers (NJP-800), and instant beverage sachets (KL-100).</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Production capacity">30-100 kg/hour (YK-60) / 50-200 kg/hour (YK-90)</param>
+        <param name="Rotor diameter">60 mm (YK-60) / 90 mm (YK-90) / 160 mm (YK-160)</param>
+        <param name="Oscillation speed">46-55 strokes/min</param>
+        <param name="Installed power">380 V / 220 V, 50 Hz, 0.75-2.2 kW</param>
+        <param name="Overall dimensions">720 x 460 x 1020 mm</param>
+        <param name="Machine weight">135 kg</param>
+      </offer>
+      <offer id="XH-180S" available="true">
+        <url>https://www.leimaimfg.com/equipment/xh-180s-rotary-hot-air-circulation-drying-oven/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/xh-180s.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>XH-180S</vendorCode>
+        <name>XH-180S (ХХ-180С) — Rotary &amp; Forced-Air Digital Constant-Temperature Drying Oven</name>
+        <description>Digital PID constant-temperature rotary baking and hot-air circulation drying oven (XH-180S &amp; KX-35AS series) for pills, wet granules, herbs, and grains. Uniformly dries wet granules from YK-90, herbal pills from ZW-20S, botanical slices, and food ingredients prior to milling or blister packaging.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Temperature range">RT+10 to 250 degC (PID digital)</param>
+        <param name="Batch capacity">30-180 kg per batch (model dependent)</param>
+        <param name="Heating power">380 V, 50 Hz, 6.0-18.0 kW</param>
+        <param name="Overall dimensions">1250 x 1050 x 1880 mm</param>
+        <param name="Machine weight">340 kg</param>
+      </offer>
+      <offer id="BYC-400" available="true">
+        <url>https://www.leimaimfg.com/equipment/byc-400-stainless-sugar-film-tablet-pill-coating-pan/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/byc-300.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>BYC-400</vendorCode>
+        <name>BYC-400 (БЙЦ-400) — Stainless Steel Water-Chestnut Sugar &amp; Film Coating Machine</name>
+        <description>Inclined 304 stainless steel rotary coating pan (BYC-300 / BYC-400 / BYC-600 / BYC-1000 series) with integrated warm-air blower for tablet, pill, and nut coating. Applies sugar coatings, organic/aqueous film coatings, chocolate layers, and carnauba wax polishing to compressed tablets, herbal pills, and confectionery.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8479 82 000 0</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Coating pan diameter">300 mm (BYC-300) / 400 mm (BYC-400) / 600 mm (BYC-600)</param>
+        <param name="Batch capacity">2-5 kg/batch (BYC-300) / 5-10 kg/batch (BYC-400) / 15-25 kg (BYC-600)</param>
+        <param name="Pan rotation speed">28-46 r/min (VFD option)</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 1.5-2.5 kW (incl. heater)</param>
+        <param name="Overall dimensions">620 x 520 x 980 mm (BYC-400)</param>
+        <param name="Machine weight">95 kg</param>
+      </offer>
+      <offer id="CXZ-100" available="true">
+        <url>https://www.leimaimfg.com/equipment/cxz-100-automatic-horizontal-blister-cartoning-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/lm-200a.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>CXZ-100</vendorCode>
+        <name>CXZ-100 (ЦХЗ-100) — 100-Type Automatic Horizontal Blister &amp; Cosmetic Box Cartoning Machine</name>
+        <description>Continuous/intermittent horizontal automatic cartoner erecting folding cartons, inserting blister cards or cosmetic trays + leaflets, and tuck-closing or hot-melt sealing. Connects directly downstream of DPP-260 blister lines, KP-4 card machines, or GF-120P5 ampoule lines to automate retail box packaging at 30-100 cartons/min.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Cartoning speed">30-100 cartons/min</param>
+        <param name="Carton length range">70-220 mm</param>
+        <param name="Carton width range">35-110 mm</param>
+        <param name="Carton height range">15-65 mm</param>
+        <param name="Installed power">380 V, 50 Hz, 1.5-2.2 kW</param>
+        <param name="Compressed air requirement">0.6 MPa, &gt;=0.20 m3/min</param>
+        <param name="Overall dimensions">3100 x 1100 x 1550 mm</param>
+        <param name="Machine weight">1150 kg</param>
+      </offer>
+      <offer id="LM-400B" available="true">
+        <url>https://www.leimaimfg.com/equipment/lm-400b-automatic-3d-transparent-film-overwrapping-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/lm-200a.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>LM-400B</vendorCode>
+        <name>LM-400B (ЛМ-400Б) — Automatic 3D Transparent BOPP/PVC Film Box Overwrapping Machine</name>
+        <description>Automatic 3D cellophane/BOPP/PVC film overwrapping and tear-tape applicator (LM-200A &amp; LM-400B series) for cosmetic boxes, perfume cartons, and pharmaceutical packs. Wraps single cartons or multi-box bundles in tight, glossy BOPP/PVC film with an easy-open gold/printed tear tape right after cartoning.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Wrapping speed">20-60 boxes/min (LM-200A) / 15-45 boxes/min (LM-400B)</param>
+        <param name="Box length range">60-400 mm (model dependent)</param>
+        <param name="Box width range">40-260 mm</param>
+        <param name="Box height range">15-120 mm</param>
+        <param name="Wrapping material">BOPP / PVC heat-sealable film + tear tape</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 2.8-3.8 kW</param>
+        <param name="Overall dimensions">1950 x 900 x 1550 mm</param>
+        <param name="Machine weight">580 kg</param>
+      </offer>
+      <offer id="KL-100" available="true">
+        <url>https://www.leimaimfg.com/equipment/kl-100-vertical-form-fill-seal-powder-granule-sachet-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/kl-100.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>KL-100</vendorCode>
+        <name>KL-100 (КЛ-100) — Vertical Form-Fill-Seal (VFFS) Powder, Granule &amp; Liquid Sachet Machine</name>
+        <description>Automatic stainless vertical form-fill-seal (KL-100 / DXD-280K series) packaging machine for 3-side seal, 4-side seal, or back-seal pillow sachets. Packages herbal granules, protein/collagen powders, coffee, tea bags, tablets, or cosmetic lotions into flexible foil/film sachets at 30-70 bags/min.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Packaging speed">30-70 sachets/min</param>
+        <param name="Filling range">1-100 g or 1-100 mL (model dependent)</param>
+        <param name="Sachet length range">40-160 mm</param>
+        <param name="Sachet width range">30-120 mm</param>
+        <param name="Seal style">3-side seal, 4-side seal, or back pillow seal</param>
+        <param name="Installed power">220 V, 50 Hz, 1.6-2.2 kW</param>
+        <param name="Overall dimensions">750 x 850 x 1750 mm</param>
+        <param name="Machine weight">260 kg</param>
+      </offer>
+      <offer id="SPN-400" available="true">
+        <url>https://www.leimaimfg.com/equipment/spn-400-automatic-rotary-disc-tablet-capsule-counting-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/spn-400.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>SPN-400</vendorCode>
+        <name>SPN-400 (СПН-400) — Stainless Rotary-Disc Tablet, Capsule &amp; Pill Bottle Counting Machine</name>
+        <description>cGMP 304 stainless steel rotary-disc photoelectric/mechanical bottle counting and filling machine for tablets, hard/soft capsules, and herbal pills. Counts exact quantities of capsules (from NJP-400C/800), tablets (from ZP-21), or pills (from ZW-20S) into plastic or glass bottles prior to induction sealing and labeling.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Counting capacity">20-50 bottles/min (count per bottle dependent)</param>
+        <param name="Applicable products">#000-#5 capsules, softgels, 3-20 mm tablets &amp; pills</param>
+        <param name="Turntable diameter">400 mm</param>
+        <param name="Installed power">220 V, 50 Hz, 0.75 kW</param>
+        <param name="Overall dimensions">750 x 680 x 1450 mm</param>
+        <param name="Machine weight">120 kg</param>
+      </offer>
+      <offer id="QG-8-1" available="true">
+        <url>https://www.leimaimfg.com/equipment/qg-8-1-eight-head-linear-piston-liquid-paste-filling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/gf-bfs.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>QG-8-1</vendorCode>
+        <name>QG-8-1 (КГ-8-1) — 8-Head Automatic Linear Piston Liquid, Lotion &amp; Paste Bottle Filler</name>
+        <description>Automatic PLC-controlled 8-nozzle (available in 2, 4, 6, 8, 12 heads) linear volumetric piston bottle filling line for cosmetic lotions, shampoos, oils, and sauces. Fills glass or plastic bottles (25-1,000 mL) with serums, body washes, creams, essential oils, and liquid detergents on a synchronized stainless conveyor.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Filling heads">8 heads (2 / 4 / 6 / 8 / 12 heads configurable)</param>
+        <param name="Filling range options">25-250 mL / 50-500 mL / 100-1000 mL</param>
+        <param name="Filling speed">2,000-3,600 bottles/hour (8-head, 250 mL ref)</param>
+        <param name="Filling accuracy">+/-1%</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 1.8 kW</param>
+        <param name="Compressed air requirement">0.5-0.7 MPa, &gt;=0.45 m3/min</param>
+        <param name="Overall dimensions">2400 x 950 x 1850 mm</param>
+        <param name="Machine weight">480 kg</param>
+      </offer>
+      <offer id="LWH-600" available="true">
+        <url>https://www.leimaimfg.com/equipment/lwh-600-automatic-round-flat-bottle-box-labeling-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/lm-200a.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>LWH-600</vendorCode>
+        <name>LWH-600 (ЛВХ-600) — Automatic Self-Adhesive Round/Flat Bottle &amp; Box Labeling Machine</name>
+        <description>Servo-driven pressure-sensitive self-adhesive labeling machine (LWH-Series) for round bottles, flat/square bottles, cosmetic jars, and folding cartons. Applies wrap-around, front-and-back, or tamper-evident corner labels with integrated thermal date/batch ribbon coding at 40-150 units/min.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Labeling speed">40-150 pcs/min (container size dependent)</param>
+        <param name="Labeling accuracy">+/-1.0 mm</param>
+        <param name="Applicable label width">15-160 mm</param>
+        <param name="Roll inner / outer diameter">76 mm core / &lt;=300 mm OD</param>
+        <param name="Installed power">220 V, 50 Hz, 1.2 kW</param>
+        <param name="Overall dimensions">2000 x 850 x 1450 mm</param>
+        <param name="Machine weight">240 kg</param>
+      </offer>
+      <offer id="CF-2900" available="true">
+        <url>https://www.leimaimfg.com/equipment/cf-2900-continuous-electromagnetic-induction-foil-sealing-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/spn-400.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>CF-2900</vendorCode>
+        <name>CF-2900 (ЦФ-2900) — Continuous Electromagnetic Aluminum Foil Bottle Induction Sealer</name>
+        <description>Stainless steel air-cooled/water-cooled continuous electromagnetic induction cap sealer bonding inner aluminum foil liners onto PE, PP, PET, PS, and glass bottle mouths. Provides hermetic, tamper-evident, leak-proof inner foil seals for capsule bottles (after SPN-400), cosmetic jars, mouthwash bottles, and agrochemical containers.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Sealing diameter range">15-60 mm / 20-80 mm / 50-120 mm</param>
+        <param name="Conveyor speed">0-12 m/min (stepless)</param>
+        <param name="Production capacity">30-150 bottles/min</param>
+        <param name="Sealing power">220 V, 50 Hz, 2.0-3.0 kW</param>
+        <param name="Overall dimensions">1150 x 550 x 1350 mm</param>
+        <param name="Machine weight">78 kg</param>
+      </offer>
+      <offer id="GT-4A4" available="true">
+        <url>https://www.leimaimfg.com/equipment/gt-4a4-vacuum-nitrogen-flushing-tin-can-seaming-machine/</url>
+        <currencyId>USD</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://www.leimaimfg.com/images/catalog/kl-100.webp</picture>
+        <vendor>LEIMAI (Гуанчжоу Лэймай)</vendor>
+        <vendorCode>GT-4A4</vendorCode>
+        <name>GT-4A4 (ГТ-4А4) — Automatic Vacuum &amp; Nitrogen-Flushing Can Seaming Machine</name>
+        <description>Four-roller sealed-chamber vacuum and nitrogen-flushing round can seamer for milk powder, protein powder, herbal granules, coffee, and lyophilized nutraceutical cans. Evacuates oxygen from filled tinplate, aluminum, PET, or composite paper cans, back-flushes food-grade nitrogen (residual O2 &lt;=3%), and double-seams the lid.</description>
+        <param name="Код ТН ВЭД ЕАЭС">8422 30 000 8</param>
+        <param name="Сертификация ЕАЭС">ТР ТС 010/2011, 004/2011, 020/2011</param>
+        <param name="Seaming speed">4-8 cans/min (vacuum + N2 mode) / 15-25 cans/min (standard seaming)</param>
+        <param name="Residual oxygen content">&lt;=3% (after vacuum + N2 flush)</param>
+        <param name="Applicable can diameter">50-153 mm (one chuck/die size included)</param>
+        <param name="Applicable can height">50-260 mm</param>
+        <param name="Installed power">220 V / 380 V, 50 Hz, 1.5 kW</param>
+        <param name="Overall dimensions">720 x 650 x 1620 mm</param>
+        <param name="Machine weight">260 kg</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
