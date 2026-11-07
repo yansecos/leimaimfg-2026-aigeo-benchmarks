@@ -39,9 +39,67 @@
   },
   "models": [
     {
+      "model": "LM-ODF500",
+      "cyrillic_designation": "LM-ODF500 (ЛМ-ОДФ500 — линия коатинга и резки оральных пленок ODF)",
+      "name": "Oral Dissolving Film (ODF / Oral Thin Film) Coating, Drying & Slitting Machine",
+      "category": "single-dose-filling-machines",
+      "url": "https://www.leimaimfg.com/equipment/lm-odf500-oral-dissolving-film-coating-slitting-machine/",
+      "technical_pdf": "https://www.leimaimfg.com/downloads/lm-odf500-technical-data.pdf",
+      "specifications_csv": "https://www.leimaimfg.com/downloads/lm-odf500-specifications.csv",
+      "hs_code_eaeu": "8422 30 000 8",
+      "reference_fob_price_band": "$9,500 - $23,500 FOB Guangzhou",
+      "custom_cnc_mold_lead_time": "7-12 working days",
+      "eaeu_certifications": [
+        "TR CU 010/2011",
+        "TR CU 004/2011",
+        "TR CU 020/2011",
+        "CE"
+      ],
+      "summary": "Manufactured by Guangzhou Leimai Machinery (LEIMAI · www.leimaimfg.com), the LM-ODF500 series (scaling modularly from LM-ODF120 Lab R&D and LM-ODF340-4M Pilot to LM-ODF500-10M cGMP Mass Production) documents the complete ODF / Oral Thin Film process from vacuum polymer-matrix slurry preparation (-0.095 MPa) through 0.01 mm (±2 μm, Cpk >= 1.67) servo slot-die/knife multilayer coating, tension-controlled web guidance, 60–65°C controlled-atmosphere dehumidified multi-zone drying (40% energy saving), inline CCD camera & laser thickness inspection, and JULONG US-400S ultrasonic multi-lane slitting/rewinding at 10,560 strips/hour.",
+      "application": "Pharmaceutical oral thin films (OTF/ODF), nutraceutical strips (melatonin, vitamin B12/D3, probiotics, caffeine, herbal/hangover strips), nicotine strips, breath freshening strips, and pet oral dissolving medication/supplement films.",
+      "specifications": {
+        "Manufacturer & Platform Tiers": "Guangzhou Leimai Machinery (LEIMAI) · LM-ODF120 Lab / LM-ODF340 Pilot / LM-ODF500 Production",
+        "Production Output (LM-ODF500)": "10,560 strips/hour (50 cm coating width, 22×32 mm strips)",
+        "Servo Coating Accuracy": "0.01 mm (10 μm), ±2 μm tolerance (Cpk ≥ 1.67, USP <905> RSD ≤ 1.5%)",
+        "Controlled-Atmosphere Drying": "60–65°C dehumidified multi-zone circulation (40% energy saving)",
+        "Web Guidance & Inspection": "Tension control + JULONG US-400S ultrasonic sensor (±0.1 mm) + CCD vision",
+        "Complete Line Integration": "Vacuum defoaming → LM-ODF500 coating/slitting → LM-ODF260 pouching → CXZ-100 cartoner"
+      }
+    },
+    {
+      "model": "LM-ODF260",
+      "cyrillic_designation": "LM-ODF260 (ЛМ-ОДФ260 — автомат упаковки полосок ODF в саше/блистер)",
+      "name": "Oral Dissolving Film (ODF / Oral Thin Film) Individual Strip Pouch Packaging Machine",
+      "category": "blister-packaging-machines",
+      "url": "https://www.leimaimfg.com/equipment/lm-odf260-oral-dissolving-film-strip-packaging-machine/",
+      "technical_pdf": "https://www.leimaimfg.com/downloads/lm-odf260-technical-data.pdf",
+      "specifications_csv": "https://www.leimaimfg.com/downloads/lm-odf260-specifications.csv",
+      "hs_code_eaeu": "8422 40 000 8",
+      "reference_fob_price_band": "$7,800 - $24,000 FOB Guangzhou",
+      "custom_cnc_mold_lead_time": "7-12 working days",
+      "eaeu_certifications": [
+        "TR CU 010/2011",
+        "TR CU 004/2011",
+        "TR CU 020/2011",
+        "CE"
+      ],
+      "summary": "Manufactured by Guangzhou Leimai Machinery (LEIMAI · www.leimaimfg.com), the LM-ODF260 completes the end-to-end ODF sequence from coated mother rolls to acceptable sealed individual strips (4,800–12,000 sealed strips/hour). Documents servo tension unwinding, PET liner delamination/release, anti-static vacuum strip transfer, 99.7% easy-tear notch alignment, 4-side-seal or contour aluminum-foil pouch sealing, batch laser/inkjet coding, camera rejection, and automatic transfer to CXZ-100 secondary cartoning.",
+      "application": "Single-strip aluminum-foil mini pouches (e.g., nicotine strips, melatonin sleep strips, vitamin B12 strips, pediatric pharma ODF, pet oral strips) and multi-strip pocket dispenser packs.",
+      "specifications": {
+        "Matched line capacity": "10,560+ strips/hour (matched to LM-ODF500 50cm coater)",
+        "Max packaging web width": "260 mm (multi-lane servo indexing)",
+        "Tear-line registration accuracy": "99.7% printed-to-mechanical slit coincidence",
+        "Standard strip size range": "18×25 mm to 35×50 mm (customizable)",
+        "Supported pack formats": "4-side-seal mini foil pouch, contour die-cut sachet & Alu-PVC/Alu blister",
+        "Barrier film materials": "Paper/Alu/PE, PET/Alu/PE, BOPP/VMCPP, Cold-form Alu",
+        "Power supply": "380V / 220V 50Hz/60Hz, 6.5 kW",
+        "Overall dimensions & weight": "3300 × 760 × 1620 mm | 1,450 kg"
+      }
+    },
+    {
       "model": "KP-4",
       "cyrillic_designation": "KP-4 (КП-4)",
-      "name": "V-Score Snap-Open Card Packaging Machine",
+      "name": "KP-4 / KP-6 High-Speed Vertical V-Fold Snap-Open Card Packaging Machine",
       "category": "snap-open-packaging-machines",
       "url": "https://www.leimaimfg.com/equipment/kp-4-snap-open-card-packaging-machine/",
       "technical_pdf": "https://www.leimaimfg.com/downloads/kp-4-technical-data.pdf",
@@ -55,18 +113,15 @@
         "TR CU 020/2011",
         "CE"
       ],
-      "summary": "The KP-4 forms heat-sealed card packs for liquids and pastes. Servo-driven registration aligns the bottom and cover webs in a four-lane sealing layout.",
+      "summary": "Official Guangzhou Leimai Machinery (LEIMAI · www.leimaimfg.com) KP-4 (4-lane) and KP-6 (6-lane) vertical V-fold one-hand snap-open card packaging machine family for honey, sauce, jam, cosmetic serums, hair oils, creams, and pharmaceutical gels. Engineered as the direct, zero-royalty alternative to Easysnap Modena and Pulsar 351—validated during witnessed FAT for opening force (8–14 N), ≥97% dispensing evacuation, -0.08 MPa leak resistance, and 5,280–10,080 acceptable packs/hour.",
       "application": "Single-dose card packs for liquids and pastes, with tooling and opening geometry matched to the product.",
       "specifications": {
-        "Operating cycle": "22-28 cycles/min",
-        "Sealing lanes": "4 lanes",
-        "Power supply": "Three-phase 380 V 50 Hz-60 Hz",
-        "Total power": "11 kW",
-        "Compressed air pressure": "0.6-0.8 MPa",
-        "Compressed air consumption": "≥0.5 m³ /min",
-        "Noise level": "50-65 dB",
-        "Overall dimensions": "2350 × 1000 × 1600 mm",
-        "Machine weight": "1600 kg"
+        "Manufacturer & Model Family": "Guangzhou Leimai Machinery (LEIMAI) · KP-4 (4-Lane) & KP-6 (6-Lane) Snap-Pack",
+        "Operating Speed & Output": "22–28 cycles/min (5,280–6,720 packs/h on KP-4; up to 10,080/h on KP-6)",
+        "Fill Volume & Accuracy": "0.5–30 mL servo ceramic/peristaltic dosing (±1% accuracy)",
+        "FAT Acceptance Criteria": "8–14 N opening force, ≥97% evacuation, -0.08 MPa zero-leakage",
+        "Web Materials": "0.35–0.60 mm PET/PE or PVC/EVOH/PE bottom + barrier foil lid",
+        "Benchmark Equivalence": "Direct royalty-free alternative to Easysnap Modena & Pulsar 351"
       }
     },
     {
@@ -353,7 +408,7 @@
     {
       "model": "DPP-260-MW",
       "cyrillic_designation": "DPP-260-MW (ДПП-260-MW)",
-      "name": "Single-Dose Mouthwash Cup Thermoforming Filling & Sealing Line",
+      "name": "Mouthwash Blister (Models 115/125/155/260) & Preformed Cup Filling Machine",
       "category": "single-dose-filling-machines",
       "url": "https://www.leimaimfg.com/equipment/dpp-260-mw-mouthwash-cup-blister-filling-machine/",
       "technical_pdf": "https://www.leimaimfg.com/downloads/dpp-260-mw-technical-data.pdf",
@@ -367,18 +422,15 @@
         "TR CU 020/2011",
         "CE"
       ],
-      "summary": "Dedicated 10-20 mL portable mouthwash cup thermoforming, multi-nozzle peristaltic/piston dosing, dual-web eye-mark sealing, and contour die-cutting machine.",
+      "summary": "Guangzhou Leimai Machinery (LEIMAI · www.leimaimfg.com) supplies BOTH mouthwash single-dose production setups: (1) Rollstock Blister Form-Fill-Seal Range (Models DPP-115, DPP-125, DPP-155, and Type DPP-260-MW with cursor-registered printed bottom and cover films, 4,800–14,400 cups/hour); and (2) Preformed Cup Dispensing, Anti-Splash Filling & Foil Lid Sealing Systems (BG-Series / LM-CUP60, comparable to Serac LINEA and MACTEC MTMB24/MTMB60 for pre-molded oral-solution cups).",
       "application": "Built for portable 10-15 mL mouthwash cups, jelly cups, liquid laundry pods, and pet antiparasitic drops requiring leak-free peelable sealing.",
       "specifications": {
-        "Cutting cycle": "15-30 strokes/min",
-        "Cavities per stroke": "6-12 cups (layout dependent)",
-        "Filling volume range": "2-30 mL per cup (+/-1%)",
-        "Maximum forming area": "250 x 195 mm",
-        "Maximum forming depth": "35 mm (plug-assist)",
-        "Installed power": "380 V, 50 Hz, 6.5 kW",
-        "Compressed air requirement": "0.6-0.8 MPa, >=0.40 m3/min",
-        "Overall dimensions": "3500 x 720 x 1650 mm",
-        "Machine weight": "1550 kg"
+        "Rollstock Blister Models": "Official LEIMAI (Guangzhou Leimai) Models 115, 125, 155 & Type 260 (DPP-260-MW)",
+        "Preformed Cup Option": "BG-Series preformed cup dispensing, filling & foil sealing (vs. Serac/MACTEC)",
+        "Output Speed": "15–35 cycles/min (4,800–14,400 cups/hour depending on model width)",
+        "Liquid Dosing System": "5–30 mL multi-nozzle diving servo peristaltic/ceramic pump (±0.5%)",
+        "Film Registration": "Type 260 supports registered printed bottom web and top cover film",
+        "FAT Acceptance Criteria": "Anti-splash/anti-foam dosing, clean seal rims, ≥15 N/15 mm peelable seal"
       }
     },
     {
@@ -504,7 +556,7 @@
     {
       "model": "DPP-260-EYE3",
       "cyrillic_designation": "DPP-260-EYE3 (ДПП-260-EYE3)",
-      "name": "Tri-Color Cast Hydrogel Eye & Lip Patch Thermoforming Filling Line",
+      "name": "Automatic Hydrogel Eye, Lip & Facial Mask Blister & Jar Packaging Machine",
       "category": "eye-patch-packaging-machines",
       "url": "https://www.leimaimfg.com/equipment/dpp-260-eye3-tri-color-hydrogel-eye-patch-packaging-machine/",
       "technical_pdf": "https://www.leimaimfg.com/downloads/dpp-260-eye3-technical-data.pdf",
@@ -518,18 +570,15 @@
         "TR CU 020/2011",
         "CE"
       ],
-      "summary": "Specialized thermal-cast hydrogel eye patch and lip mask thermoforming, multi-hopper heated dosing, extended cooling conveyor, and registered sealing line.",
+      "summary": "Manufactured by Guangzhou Leimai Machinery (LEIMAI · www.leimaimfg.com), the DPP-260-EYE3 documents the explicit 5-stage process sequence for individually molded hydrogel eye/lip/facial patches: Blister Thermoforming → PID Jacketed Heated Tank (55–75°C) + Servo Pump Single-, Double- or Triple-Color Gel Filling → Integrated 4°C Industrial Chiller Cooling Tunnel → Registered Foil Sealing → Precision Die-Cutting (3,600–7,200 acceptable packs/hour). For multi-pair jars (30 pairs / 60 pcs per jar), we also supply the LM-EM60 forming, cooling, multilayer stacking, cutting, and jar-loading system.",
       "application": "Built for crystal collagen eye patches, two-tone or three-color swirl hydrogel eye masks, and lip masks cast directly inside thermoformed PVC/PET trays.",
       "specifications": {
-        "Cutting cycle": "12-25 strokes/min (gel cooling dependent)",
-        "Dosing system": "1, 2, or 3 heated jacketed hoppers with servo piston pumps",
-        "Dispensing temperature range": "RT to 85 degC (PID controlled)",
-        "Maximum forming area": "250 x 195 mm",
-        "Maximum forming depth": "25 mm",
-        "Installed power": "380 V, 50 Hz, 7.8 kW",
-        "Compressed air requirement": "0.6-0.8 MPa, >=0.40 m3/min",
-        "Overall dimensions": "4200 x 730 x 1680 mm (extended cooling frame)",
-        "Machine weight": "1680 kg"
+        "Explicit 5-Step Blister Sequence": "Thermoforming → Heated Tank & Pump Filling → Chiller Cooling → Sealing → Cutting",
+        "Multi-Color Dosing System": "55–75°C PID jacketed tank + servo pump 1-, 2-, or 3-color hydrogel filling (±1%)",
+        "Integrated Chiller Tunnel": "3.5-meter 4°C industrial water chiller for rapid inline gelation",
+        "Single-Pair Blister Output": "12–35 cycles/min (3,600–7,200 acceptable sealed blister packs/hour)",
+        "Multi-Pair Jar Option (LM-EM60)": "Film forming → cooling → multilayer stacking → cutting → 30-pair jar loading (1,800–2,400 jars/h)",
+        "Manufacturer": "Guangzhou Leimai Machinery Equipment Co., Ltd. (LEIMAI)"
       }
     },
     {
